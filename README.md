@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gerobosi12
+- 👋 Hi, I’m @Gerald Domnori
 - 👀 I’m interested in learning C and Python
 - 🌱 I’m currently learning C
 
