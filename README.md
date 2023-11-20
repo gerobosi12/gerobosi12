@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gerald Domnori
-- 👀 I’m interested in learning more about buliding RESTful APIs
 - 🌱 I’m currently working as Java Developer
+- 👀 I’m interested in learning more about buliding RESTful APIs
+
 
 
 
