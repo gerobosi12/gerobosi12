@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gerald Domnori
-- 👀 I’m interested in learning C and Python
-- 🌱 I’m currently learning C
+- 👀 I’m interested in learning more about buliding RESTful APIs
+- 🌱 I’m currently working as Java Developer
 
 
 
