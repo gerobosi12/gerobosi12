@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gerald Domnori
-- 🌱 I’m currently working as Java Developer
+- 🌱 I’m currently working as Web Developer
 - 👀 I’m interested in learning more about buliding RESTful APIs
 
 
